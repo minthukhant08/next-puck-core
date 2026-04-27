@@ -1,0 +1,14 @@
+{
+  "root": {
+    "props": {}
+  },
+  "content": [
+    {
+      "type": "QNA",
+      "props": {
+        "id": "QNA-e774bd0c-23bd-4f18-b495-45b0ba7a4785"
+      }
+    }
+  ],
+  "zones": {}
+}

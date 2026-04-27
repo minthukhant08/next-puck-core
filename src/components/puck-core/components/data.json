@@ -1,0 +1,24 @@
+{
+    "question": {
+        "text": "Whats the answer?",
+        "answer": 2,
+        "options": [
+            {
+                "id": 1,
+                "text": "Option A"
+            },
+            {
+                "id": 2,
+                "text": "Option B"
+            },
+            {
+                "id": 3,
+                "text": "Option C"
+            },
+            {
+                "id": 4,
+                "text": "Option D"
+            }
+        ]
+    }
+}
