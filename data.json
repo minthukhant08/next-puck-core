@@ -4,9 +4,41 @@
   },
   "content": [
     {
+      "type": "Columns",
+      "props": {
+        "id": "Columns-9db850c5-34a1-4f08-aecb-ba6b91535179",
+        "columnCount": 2,
+        "items": [
+          {
+            "itemSlot": [
+              {
+                "type": "Text",
+                "props": {
+                  "id": "Text-a82ce6f5-a07f-4ba1-adbe-25c5b7d73b65",
+                  "style": "bold",
+                  "size": "23",
+                  "color": "#ff2929"
+                }
+              }
+            ]
+          },
+          {
+            "itemSlot": [
+              {
+                "type": "QNA",
+                "props": {
+                  "id": "QNA-8245bea3-34b0-4a27-81b4-3f2c3bb9881b"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "type": "QNA",
       "props": {
-        "id": "QNA-e774bd0c-23bd-4f18-b495-45b0ba7a4785"
+        "id": "QNA-3bb43e79-93f2-47a5-a4f4-182cd1f51797"
       }
     }
   ],
